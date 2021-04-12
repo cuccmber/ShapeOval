@@ -2,7 +2,6 @@ package com.yasuchenya.shape.calculation;
 
 import com.yasuchenya.shape.entity.Oval;
 import com.yasuchenya.shape.entity.SegmentCalculation;
-import com.yasuchenya.shape.validator.OvalValidator;
 
 import static java.lang.Math.pow;
 
